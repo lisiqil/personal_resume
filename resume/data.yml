@@ -1,0 +1,96 @@
+/* 
+#*/ export const PERSON = `
+# Any fields left unchanged, please delete so your resume is fully yours!
+
+name:
+  first: Leo
+  middle:
+  last: Lee
+about: 嗨，我叫 Leo。我就是那种你能想到的最无聊的人可能想象。我喜欢从后院的树上收集树叶并记录下来每次我吃到不均匀的花生。我不是机器人。请雇用我吧。
+position: 软件开发人员
+
+birth:
+  year: 1995
+  location: Wuhan City
+
+# you may add more experiences by duplicating the template
+
+experience:
+- company: 招引云创
+  position: 前端开发
+  timeperiod: 2016年1月至今
+  description: 编程和看可爱的猫咪视频。
+  website: https://example.com
+
+- company: 中芯微电子
+  position: 前端开发人员
+  timeperiod: 2015年1月- 2015年12月
+  description: 完成极其重要的任务。
+
+- company: 腾讯云
+  position: 前端开发
+  timeperiod: 2014年3月- 2014年12月
+  description: 煮咖啡和烤饼干。
+
+education:
+- degree: 文学硕士
+  timeperiod: 2012年3月至2013年12月
+  description: 美国纽约A大学黑客与计算机渗透专业
+  website: https://example.com
+
+- degree: 理学学士
+  timeperiod: 2009年3月至2011年12月
+  description: 美国洛杉矶B大学工程专业毕业。
+
+# skill level goes from 0 to 100
+skills:
+- name: HTML5
+  level: 99
+- name: CSS3
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: Angular 2
+  level: 60
+- name: TypeScript
+  level: 80
+- name: ES.Next
+  level: 70
+- name: Docker
+  level: 99
+knowledge: 熟练使用Adobe Photoshop和Illustrator，从小就会说两种语言(英语和克林贡语)。
+
+projects:
+- name: 腾讯软件管家软件开放平台
+  platform: Vue
+  timeperiod: 2016年2月
+  description: 👔 💼 建立快速 🚀 简单的多个漂亮的简历，创造你最好的简历!由Vue和LESS制成。
+  url: https://github.com/salomonelli/best-resume-ever
+
+# optional, not all resume templates have hobbies included
+hobbies:
+- name: 视频游戏
+  iconClass: fa fa-gamepad
+  url: https://example.com
+
+- name: 画画
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+contributions:
+- name: best-resume-ever
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/salomonelli/best-resume-ever
+
+contact:
+  email: 463402444@qq.com
+  phone: 188 6261 7398
+  street: 花山街道
+  city: Wuhan City
+  website: nisqy.cn
+  github: johnyD
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
+lang: cn
+`
